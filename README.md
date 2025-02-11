@@ -44,4 +44,3 @@
 ### 📫 Connect with Me  
 📧 **Email**: [victorlohwk@gmail.com](mailto:victorlohwk@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/vlwk](https://linkedin.com/in/vlwk)  
-🌐 **GitHub**: [github.com/vlwk](https://github.com/vlwk)  
