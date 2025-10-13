@@ -1,27 +1,5 @@
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/vlwk"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:victorlohwk@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://github.com/vlwk"><img src="https://img.shields.io/github/followers/vlwk?label=Followers&style=social" alt="GitHub"></a>
-</p>
-
----
-
-### 👨‍💻 About Me  
-- 🎓 **Computer Science Undergraduate** at the **University of Cambridge**
-- 💡 **Passionate about** cybersecurity, DevOps, full-stack development & AI-driven automation  
-- 🔐 Currently **learning penetration testing** and preparing for the [**OSCP**](https://www.offsec.com/courses/pen-200/)
-- 📈 Software engineering internships at **GovTech** & **GIC**
-- 🍪 A passionate **baker of the perfect chocolate chip cookies**  
-
----
-
-### 🛠️ Tech Stack  
-![Languages](https://skillicons.dev/icons?i=typescript,python,c,cpp,nextjs,react,nodejs,django,aws,gcp,terraform,kubernetes,docker,pytorch,flask)
-
----
-
 ### 🚀 Notable Projects  
 
 #### **🔹 [CodeCure](https://github.com/zeyu2001/codecure) | ETH Oxford 2025**  
