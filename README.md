@@ -1,5 +1,4 @@
-<h1 align="center">🇸🇬 Hi, I'm Victor Loh 👋</h1>
-<h3 align="center">Computer Science Undergraduate @ University of Cambridge</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/vlwk"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
